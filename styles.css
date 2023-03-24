@@ -1,0 +1,50 @@
+button {
+  background-color: #9de3f6;
+  color: black;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+h2
+{
+ padding: 10px;
+background-color:#f7c8ab;
+align: center;
+
+
+}
+#map
+{
+
+    height: 90%;
+    margin: auto;
+    width: 90%;
+    border: 2px solid light grey;
+    padding: 10px;
+  }
+
+
+
+  <!--
+            function getMarkerColor(temperature)
+             {
+            if (temperature <= 20)
+             {
+                return 'blue'; // blue for temperatures below or equal to 20
+             }
+             else if (temperature <= 30)
+             {
+                return 'green'; // green for temperatures between 20 and 30
+             }
+              else if (temperature <= 40)
+             {
+                return 'orange'; // orange for temperatures between 30 and 40
+             }
+              else
+             {
+                return 'red'; // red for temperatures above 40
+             }
+}
+
+-->
